@@ -1,0 +1,7 @@
+apiVersion: hwc.dev/v1alpha1
+kind: HelloWorld
+metadata:
+  name: "hello-world-1"
+  namespace: cnvrg
+spec:
+  message: "Hello World!"
